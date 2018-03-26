@@ -4,7 +4,8 @@
 ---
 ### 最新版本 (Newest Version): V4.1.0
 ---
-*** API已強制更新，地圖暫時下線（提供重生點搜尋）\n
+*** API已強制更新，地圖暫時下線（提供重生點搜尋)
+
 有問題請回報至 (If you encounter any problems, please report here):
 
 https://www.facebook.com/wecatch
