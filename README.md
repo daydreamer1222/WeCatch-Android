@@ -2,7 +2,7 @@
 
 ## WeCatch Android Version
 ---
-### 最新版本 (Newest Version): V4.2.2
+### 最新版本 (Newest Version): V4.2.3
 ---
 *** 地圖已重啟，僅部分區域。
 
