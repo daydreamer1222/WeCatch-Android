@@ -2,9 +2,9 @@
 
 ## WeCatch Android Version
 ---
-### 最新版本 (Newest Version): V4.2.1
+### 最新版本 (Newest Version): V4.2.2
 ---
-*** API已強制更新，地圖暫時下線（僅提供重生點搜尋)
+*** 地圖已重啟，僅部分區域。
 
 有問題請回報至 (If you encounter any problems, please report here):
 
