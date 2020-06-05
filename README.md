@@ -4,14 +4,6 @@
 ---
 ### 最新版本 (Newest Version): V4.3.0
 ---
-*** 地圖已重啟，僅支援部分區域。
-
-有問題請回報至 (If you encounter any problems, please report here):
-
-- Facebook Page: https://www.facebook.com/wecatch
-
-- Discord: https://discord.gg/4UGCCJM
-
 
 特別感謝 (Special shoutout):
 
