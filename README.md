@@ -2,7 +2,7 @@
 
 ## WeCatch Android Version
 ---
-### 最新版本 (Newest Version): V4.3.2
+### 最新版本 (Newest Version): V4.3.4
 ---
 
 特別感謝 (Special shoutout):
